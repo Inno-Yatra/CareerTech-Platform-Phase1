@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+*.pyc
+__pycache__/
+
+# Logs & Debug Files
+*.log
+scrapy.log
+
+# Selenium WebDriver Binaries
+chromedriver
+geckodriver
+msedgedriver
+
+# Scrapy Output Files
+*.json
+*.csv
+*.xml
+
+# IDE/Editor Files
+.vscode/
+.idea/
+.DS_Store
+
+# Bun/NPM (if using JS for some parts)
+node_modules/
+bun.lockb
